@@ -1,0 +1,9 @@
+{
+    "name": "@selfxyz/mobile-sdk-alpha",
+    "version": "2.6.4",
+    "type": "module",
+    "exports": {
+        ".": "./esm/index.js",
+        "./browser": "./esm/browser.js"
+    }
+}

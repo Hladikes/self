@@ -1,0 +1,7 @@
+import React from 'react';
+interface LEDProps {
+    size?: number;
+    connectionStatus?: number;
+}
+declare const LED: React.FC<LEDProps>;
+export default LED;

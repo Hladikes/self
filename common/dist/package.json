@@ -1,0 +1,11 @@
+{
+    "name": "@selfxyz/common",
+    "version": "0.0.7",
+    "type": "module",
+    "exports": {
+        ".": "./esm/index.js",
+        "./constants": "./esm/src/constants/index.js",
+        "./utils": "./esm/src/utils/index.js",
+        "./types": "./esm/src/types/index.js"
+    }
+}
